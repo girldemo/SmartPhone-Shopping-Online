@@ -1,7 +1,7 @@
 # SmartPhone-Shopping-Online
 (Very) Simple Website to manage, search infomation and buy smartphone
 
-*Using jsp servlet and MVC model.
+*Using jsp servlet and MVC model. <br>
 *Language:
 -FE: HTML, CSS, Sass, Jquery, Javascript.
 -BE: Java (java embedded html)
