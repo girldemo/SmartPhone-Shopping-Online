@@ -8,4 +8,4 @@
 *IDE: eclipse <br>
 *Webserver: Apache-Tomcat 9.0.55 (or can use xampp) <br>
 *Database: MySql (or PhpMyAdmin in xampp) <br>
-*External module/jar: https://drive.google.com/drive/folders/1ITyakgDDB4XymgxF6MFWOTgqWBlowlHT?usp=sharing <br>
+*External module/jar and database: https://drive.google.com/drive/folders/1ITyakgDDB4XymgxF6MFWOTgqWBlowlHT?usp=sharing <br>
