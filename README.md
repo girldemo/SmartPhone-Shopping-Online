@@ -1,5 +1,5 @@
 # SmartPhone-Shopping-Online
-(Very) Simple Website to manage, search infomation and buy smartphone
+Simple Website to manage (CRUD), search infomation and buy smartphone
 
 *Using jsp servlet and MVC model. <br>
 *Language: <br>
